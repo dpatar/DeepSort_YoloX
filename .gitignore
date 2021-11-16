@@ -1,0 +1,4 @@
+models/*.pth
+deep_sort_network/*.pb
+dataset/*.mp4
+output/
